@@ -6,6 +6,8 @@ public class Lol {
 		System.out.println("Hello world!");
 		System.out.println(1+2);
 		System.out.println("lol");
+		System.out.println("Alex le coach !!");
+
 	}
 
 }
