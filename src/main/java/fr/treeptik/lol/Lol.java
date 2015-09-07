@@ -5,7 +5,6 @@ public class Lol {
 	public static void main(String[] args) {
 		System.out.println("Hello world!");
 		System.out.println(1+2);
-		System.out.println("lol");
 		System.out.println("Alex le coach !!");
 		System.out.println("maklouf le roi du ouf");
 
