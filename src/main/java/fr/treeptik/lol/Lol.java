@@ -8,11 +8,7 @@ public class Lol {
 		System.out.println("Alex le coach !!");
 		System.out.println("maklouf le roi du ouf");
 
-		mdr();
-	}
-
-	private static void mdr() {
-		System.out.println("ahhhhh!");
+		System.out.println("c'est chaud");
 	}
 
 }
