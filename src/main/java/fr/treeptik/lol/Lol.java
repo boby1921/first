@@ -16,5 +16,8 @@ public class Lol {
 		System.out.println("makmakmakmakmak");
 		
 	}
+	public func(String test){
+		return test;
+	}
 
 }
