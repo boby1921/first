@@ -11,5 +11,8 @@ public class Lol {
 		System.out.println("c'est chaud");
 		System.out.println("makmakmakmakmak");
 	}
+	public func(String test){
+		return test;
+	}
 
 }
