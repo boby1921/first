@@ -15,5 +15,8 @@ public class Lol {
 		System.out.println("c'est chaud");
 		System.out.println("makmakmakmakmak");
 		
+		
+		String mak = "coucou";
+		
 	}
 }
